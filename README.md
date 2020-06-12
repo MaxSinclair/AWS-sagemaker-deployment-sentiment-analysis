@@ -8,11 +8,11 @@ The schema of the solution is the following:
 
 Below two screenshots of a positive and a negative examples entered in the deployed web app and their returned sentiment evaluation. 
 
-__Positive review Example__
+__Positive review example:__
 
 ![Positive Review](https://github.com/MaxSinclair/AWS-sagemaker-deployment-sentiment-analysis/blob/master/examples%20/positive%20review.png)
 
-__Negative review Example__
+__Negative review example:__
 
 ![Negative Review](https://github.com/MaxSinclair/AWS-sagemaker-deployment-sentiment-analysis/blob/master/examples%20/negative%20review.png)
 
